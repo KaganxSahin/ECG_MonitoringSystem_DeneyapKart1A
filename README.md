@@ -1,4 +1,4 @@
-![IMG_9228 (1)](https://github.com/user-attachments/assets/c49039db-239f-4a62-b552-f262e62e9076)Türkçe
+Türkçe
 
 Bu projede Deneyap Kart 1A ve AD8232 modülü kullanılarak EKG (Elektrokardiyogram) izleme sistemi geliştirilmiştir. 
 Sistem, AD8232 modülüne bağlanan üç adet EKG elektrodu (RA, LA ve RL) aracılığıyla insan vücudundan kalp atış sinyallerini algılar. 

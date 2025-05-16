@@ -15,5 +15,4 @@ The received data is graphically displayed using the Serial Plotter tool in the 
 The individual undergoing the ECG measurement must avoid contact with any electronic devices such as computers or mobile phones.
 
 ![Adsız tasarım (21)](https://github.com/user-attachments/assets/4ecfb984-f534-4a01-9dbb-6d8c1adbd2d1)
-![IMG_9228 (1)](https://github.com/user-attachments/assets/942d2599-8fb1-467f-a13e-e2b06b0612d0)
-
+![c6015800-aa13-4fd3-969e-2975bfe802ca](https://github.com/user-attachments/assets/6aeb5a79-df61-4c42-99d5-920c58510994)
